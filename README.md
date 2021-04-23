@@ -1,1 +1,2 @@
-# hack-the-pandemic-
+# Predicting COVID-19
+----------------------
